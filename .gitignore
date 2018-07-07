@@ -22,3 +22,7 @@ yarn-error.log*
 
 # node_modules
 node_modules/
+
+# basic project work
+assets/mockup.xml
+assets/ideas.txt
